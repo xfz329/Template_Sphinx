@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Silence
+# This file is distributed under the same license as the Template package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Template \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-19 22:35+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../source/index.rst:9
+msgid "Contents:"
+msgstr "目录："
+
+#: ../../source/index.rst:7 90c9feb9367741a7a43c6bddf6317566
+msgid "Welcome to Template's documentation!"
+msgstr "欢迎参阅模板文档"
+
+#: ../../source/index.rst:18 948fdff26bab4fcaab0de875d76fedeb
+msgid "Indices and tables"
+msgstr "变量与表格"
+
+#: ../../source/index.rst:20 db82b6afb23b4127afcfe132b80e889f
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:21 a4ffc0d7f8a841feb08d709762840436
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:22 e2fbd774a6354199882e82ba57244f43
+msgid ":ref:`search`"
+msgstr ""
+
