@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Silence
+# This file is distributed under the same license as the Template package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Template \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-19 22:43+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../source/bilingual.rst:2 ca8a3c92d934482d978bc396bea2dcc5
+msgid "bilingual"
+msgstr "双语设置"
+
+#: ../../source/bilingual.rst:5 4560ccc830e84a1ba2c06dda844162cb
+msgid "Write the documentation in English."
+msgstr "用英文撰写文档。"
+
+#: ../../source/bilingual.rst:6 c62b918dcd9e4e779e42738f90847f17
+msgid "Change directory to the `/docs` and input two commands below."
+msgstr "切换到项目的 `/docs` 目录下，输入下列命令。"
+
+#: ../../source/bilingual.rst:14 b79814b888bb49c689d194065fd9d49e
+msgid "Fetch the `*.po` files in `/docs/locales` and translate as needed."
+msgstr "根据需要，翻译修改 `/docs/locales` 目录下的 `*.po` 文件。"
+
+#: ../../source/bilingual.rst:15 0d0f658ab5804e56a07a1868449f2ef1
+msgid "Compile the documentation just in the target language."
+msgstr "按翻译语言编译整个文档。"
+

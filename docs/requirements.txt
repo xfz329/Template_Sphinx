@@ -1,0 +1,7 @@
+sphinx
+sphinx-markdown-tables==0.0.17
+sphinx-autoapi
+sphinx-copybutton
+sphinx_design
+recommonmark
+furo
